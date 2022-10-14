@@ -1,0 +1,35 @@
+.contenedor{
+    background-color: #ffD000;
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+.botonAgregar{
+    background-color: rgba(0, 0, 0, 0.286);
+    border: none;
+    color: white;
+    width:200px ;
+    height: 40px;
+    margin-top: 30px;
+    margin-left: 50px;
+
+}
+#imagen{
+    display: flex;
+    margin-top: 130px;
+}
+
+#fotos{
+border: solid;
+padding-bottom: 120px;
+margin-right: 30px;
+margin-left: 40px;
+width: 250px;
+height: 250px;
+background-size: contain;
+
+
+
+}
