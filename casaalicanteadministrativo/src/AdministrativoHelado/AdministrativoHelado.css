@@ -30,7 +30,7 @@
     margin-left: 20px;
 }
 
-.foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+.foto1, .foto2, .foto3, .foto4{
     margin-left: 20px;
     width: 280px;
     height: 250px;
@@ -39,23 +39,18 @@
     box-shadow: 5px 10px 0 rgba(164,161,161);
 }
 .foto1{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/1.png?alt=media&token=28e11b32-6dd0-4d43-b865-5bef6e88d234");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(1).jpg?alt=media&token=34579dcb-64d3-45fb-aba8-6c6af5008ff3");
 }
 .foto2{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/2.png?alt=media&token=a8fd8eef-b5b0-418c-a376-f17351737517");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(2).jpg?alt=media&token=8dbbbc77-45b7-4069-bbd2-a7e735cfe8f5");
 }
 .foto3{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/3.png?alt=media&token=29ccde50-a897-4fa3-bb7e-2941051f433c");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(3).jpg?alt=media&token=a544522c-f980-499e-9abd-d6ed62883f58");
 }
 .foto4{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/4.png?alt=media&token=624d36dc-e500-486f-8837-53194f7d4118");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(4).jpg?alt=media&token=89a4070e-b31c-4a44-a1eb-b703226f4677");
 }
-.foto5{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/5.png?alt=media&token=b37e39c9-9115-4897-970a-91845830509d");
-}
-.foto6{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/6.png?alt=media&token=f805691d-b726-4e83-bb0b-ba0e714fdb98");
-}
+
 
 .barraIconos{
     background-color: rgba(255, 255, 255, 0.427);

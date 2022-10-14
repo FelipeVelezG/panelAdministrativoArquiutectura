@@ -4,14 +4,24 @@ import ReactDOM from 'react-dom/client';
 // import { Rutas } from './Router/Rutas';
 import { MenuAdministrativo } from './MenuAdministrativo/MenuAdministrativo';
 import { AdministrativoCasaAlicante } from './AdministrativoCasaAlicante/AdministrativoCasaAlicante';
+import { AdministrativoHelado } from './AdministrativoHelado/AdministrativoHelado';
+import { AdministrativoBebidas } from './AdministrativoBebidas/AdministrativoBebidas';
+import { Inicio } from './Inicio/Inicio';
+import { Cerrar } from './Cerrar/Cerrar'
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    
+    {/* <Vista/> */}
+    {/* <VistaPrincipal/> */}
     <MenuAdministrativo />
-    <AdministrativoCasaAlicante/>
+    <Cerrar/>
     
+    {/* <Inicio/>
+    
+    <AdministrativoBebidas/> */}
     
   </React.StrictMode>
 );

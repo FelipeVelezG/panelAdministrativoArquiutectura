@@ -1,5 +1,3 @@
-
-
 .contenedor{
     background-color: #ffD000;
     width: 80%;
@@ -39,22 +37,22 @@
     box-shadow: 5px 10px 0 rgba(164,161,161);
 }
 .foto1{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/1.png?alt=media&token=28e11b32-6dd0-4d43-b865-5bef6e88d234");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(1).jpg?alt=media&token=ec7411f5-1025-4838-bb9c-417657648899");
 }
 .foto2{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/2.png?alt=media&token=a8fd8eef-b5b0-418c-a376-f17351737517");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(2).jpg?alt=media&token=97774178-7bf5-438e-aeb3-46fd594ddf34");
 }
 .foto3{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/3.png?alt=media&token=29ccde50-a897-4fa3-bb7e-2941051f433c");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(3).jpg?alt=media&token=9b76b92f-dbf0-44ba-882d-80b0d483a85b");
 }
 .foto4{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/4.png?alt=media&token=624d36dc-e500-486f-8837-53194f7d4118");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(4).jpg?alt=media&token=e7ab5850-ffbb-49f1-8eb9-f3cf1c976f8e");
 }
 .foto5{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/5.png?alt=media&token=b37e39c9-9115-4897-970a-91845830509d");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/CERV%20(1).jpg?alt=media&token=b04f1d52-d74b-4618-8b57-1d1e1385c219");
 }
 .foto6{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/6.png?alt=media&token=f805691d-b726-4e83-bb0b-ba0e714fdb98");
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/CERV%20(3).jpg?alt=media&token=070a0482-083b-4e61-aa34-f170c2f176a7");
 }
 
 .barraIconos{
