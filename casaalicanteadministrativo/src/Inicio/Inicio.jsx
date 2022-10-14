@@ -1,5 +1,6 @@
 import './Inicio.css'
 
+
 export function Inicio() {
     return (
         <>
@@ -24,7 +25,7 @@ export function Inicio() {
 
 
                         <div className="text-center  m-5">
-                            <button className=" btn-info bg-warning  btn-dark" type="button">INICIAR SESION</button>
+                            <button to="/cerrar" className=" btn-info bg-warning  btn-dark" type="button">INICIAR SESION</button>
                         </div>
 
 

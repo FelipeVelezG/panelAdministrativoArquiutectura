@@ -9,25 +9,25 @@ export function AdministrativoBebidas() {
             <button className="botonAgregar">AGREGAR FOTO</button>
   
             <div id="contendorTarjetas">
-              <div className="foto1" >
+              <div className="fotoBebida1" >
                 <div className="barraIconos">
                   <button className="botonIconoEditar" type="submit" ><img className="iconoEditar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/editar.png?alt=media&token=c6bb408f-c692-48ac-9400-49cabe555c48"></img></button>
                   <button className="botonIconoEliminar" type="submit" ><img className="iconoEliminar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/eliminar.png?alt=media&token=00ed402b-d287-4333-8971-d2dfc07a6d81"></img></button>
                 </div>
               </div>
-              <div className="foto2" >
+              <div className="fotoBebida2" >
                 <div className="barraIconos">
                   <button className="botonIconoEditar" type="submit" ><img className="iconoEditar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/editar.png?alt=media&token=c6bb408f-c692-48ac-9400-49cabe555c48"></img></button>
                   <button className="botonIconoEliminar" type="submit" ><img className="iconoEliminar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/eliminar.png?alt=media&token=00ed402b-d287-4333-8971-d2dfc07a6d81"></img></button>
                 </div>
               </div>
-              <div className="foto3" >
+              <div className="fotoBebida3" >
                 <div className="barraIconos">
                   <button className="botonIconoEditar" type="submit" ><img className="iconoEditar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/editar.png?alt=media&token=c6bb408f-c692-48ac-9400-49cabe555c48"></img></button>
                   <button className="botonIconoEliminar" type="submit" ><img className="iconoEliminar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/eliminar.png?alt=media&token=00ed402b-d287-4333-8971-d2dfc07a6d81"></img></button>
                 </div>
               </div>
-              <div className="foto4" >
+              <div className="fotoBebida4" >
                 <div className="barraIconos">
                   <button className="botonIconoEditar" type="submit" ><img className="iconoEditar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/editar.png?alt=media&token=c6bb408f-c692-48ac-9400-49cabe555c48"></img></button>
                   <button className="botonIconoEliminar" type="submit" ><img className="iconoEliminar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/eliminar.png?alt=media&token=00ed402b-d287-4333-8971-d2dfc07a6d81"></img></button>
@@ -36,13 +36,13 @@ export function AdministrativoBebidas() {
   
             </div>
             <div id="contenedorLineaDosTarjeta">
-              <div className="foto5">
+              <div className="fotoBebida5">
                 <div className="barraIconos">
                   <button className="botonIconoEditar" type="submit" ><img className="iconoEditar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/editar.png?alt=media&token=c6bb408f-c692-48ac-9400-49cabe555c48"></img></button>
                   <button className="botonIconoEliminar" type="submit" ><img className="iconoEliminar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/eliminar.png?alt=media&token=00ed402b-d287-4333-8971-d2dfc07a6d81"></img></button>
                 </div>
               </div>
-              <div className="foto6">
+              <div className="fotoBebida6">
                 <div className="barraIconos">
                   <button className="botonIconoEditar" type="submit" ><img className="iconoEditar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/editar.png?alt=media&token=c6bb408f-c692-48ac-9400-49cabe555c48"></img></button>
                   <button className="botonIconoEliminar" type="submit" ><img className="iconoEliminar" src="https://firebasestorage.googleapis.com/v0/b/metodologiasagilesfinal.appspot.com/o/eliminar.png?alt=media&token=00ed402b-d287-4333-8971-d2dfc07a6d81"></img></button>

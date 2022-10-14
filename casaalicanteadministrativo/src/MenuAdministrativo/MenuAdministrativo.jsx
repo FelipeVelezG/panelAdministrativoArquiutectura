@@ -1,6 +1,7 @@
 import { Router } from "react-router-dom";
 import "./MenuAdminitrativo.css"
 
+
 export function MenuAdministrativo(){
     return (
 
@@ -16,8 +17,8 @@ export function MenuAdministrativo(){
                         </div>
                         <div className="rowInferior">
                             <div className="col-8 d-block mx-auto" >
-                                <p><a className="enlaces" href="">PRODUCCIONES</a> </p>
-                                <p className="mt-3"><a className="enlaces" href="">CATEGORÍAS</a> </p>
+                                <p><a className="enlaces" to="/vistaprincipal">PRODUCCIONES</a> </p>
+                                <p className="mt-3"><a className="enlaces" to="/casaalicante">CATEGORÍAS</a> </p>
                             </div>
 
                         </div>

@@ -1,0 +1,89 @@
+.todo{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    width: 100%;
+}
+
+#iconoCerrarSesion{
+    display: flex;
+    justify-content: end;
+    font-size: 20px;
+    border: solid 3px #FFD000;
+}
+
+
+.rowColumna{
+    display: flex;
+    height: 100vh;
+    width: 100%;
+    min-width: 30%;
+
+}
+
+
+.EnlacesProducciones,.EnlacesCategorias{
+ display: flex;
+ justify-content: start;
+ background-color: #000;
+ font-size: 25px;
+ 
+}
+
+.headerCerrarSesion, .enlacesCerrarSesion{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    flex-direction: column;
+    background: #000;
+    width: 20%;
+}
+
+.rowColumna2{
+    background-color: #FFD000;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.contenedorCrearCategoria{
+    display: flex;
+    justify-content: center;
+    border: #000 solid 3px;
+    background-color: #000;
+    height: 60%;
+    width: 60%;
+    align-items:center;
+    box-shadow: white 10px 10px 0px;
+    flex-direction: column;
+}
+.textoDeConfirmacion{
+    display: flex;
+    justify-content: center;
+    height: 10%;
+    width: 60%;
+    font-size: 25px;
+    align-self: center;
+    color: white;
+    margin-top: 30px;
+    border: #FFD000 solid 2px;
+    align-items: center;
+    
+}
+
+.ContenedorGuardarBorrar{
+    display: flex;
+    justify-content: space-between;
+    position: absolute;
+    top: 715px;
+    height: 8%;
+    width: 50%;
+    background-color: #62676A;
+    bottom: 0;
+    border: #62676A solid 2px;
+}
+.guardarCerrarSesion,.guardarCerrarSesion{
+    margin-left: 6%;
+    margin-right: 6%;
+}

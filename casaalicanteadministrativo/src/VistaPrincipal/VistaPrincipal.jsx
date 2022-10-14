@@ -1,5 +1,3 @@
-import { NavBar } from '../NavBar/NavBar'
-import { Link } from 'react-router-dom'
 import './VistaPrincipal.css'
 import { MenuAdministrativo } from '../MenuAdministrativo/MenuAdministrativo'
 

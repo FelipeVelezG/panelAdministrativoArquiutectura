@@ -28,7 +28,7 @@
     margin-left: 20px;
 }
 
-.foto1, .foto2, .foto3, .foto4, .foto5, .foto6{
+.fotoBebida1, .fotoBebida2, .fotoBebida3, .fotoBebida4, .fotoBebida5, .fotoBebida6{
     margin-left: 20px;
     width: 280px;
     height: 250px;
@@ -36,22 +36,22 @@
     position: relative;
     box-shadow: 5px 10px 0 rgba(164,161,161);
 }
-.foto1{
+.fotoBebida1{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(1).jpg?alt=media&token=ec7411f5-1025-4838-bb9c-417657648899");
 }
-.foto2{
+.fotoBebida2{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(2).jpg?alt=media&token=97774178-7bf5-438e-aeb3-46fd594ddf34");
 }
-.foto3{
+.fotoBebida3{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(3).jpg?alt=media&token=9b76b92f-dbf0-44ba-882d-80b0d483a85b");
 }
-.foto4{
+.fotoBebida4{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/BEBIDAS%20%20(4).jpg?alt=media&token=e7ab5850-ffbb-49f1-8eb9-f3cf1c976f8e");
 }
-.foto5{
+.fotoBebida5{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/CERV%20(1).jpg?alt=media&token=b04f1d52-d74b-4618-8b57-1d1e1385c219");
 }
-.foto6{
+.fotoBebida6{
     background-image: url("https://firebasestorage.googleapis.com/v0/b/metodologiafinal-fdb18.appspot.com/o/CERV%20(3).jpg?alt=media&token=070a0482-083b-4e61-aa34-f170c2f176a7");
 }
 

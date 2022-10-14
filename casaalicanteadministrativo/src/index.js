@@ -1,27 +1,34 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-// import { BrowserRouter } from 'react-router-dom';
-// import { Rutas } from './Router/Rutas';
 import { MenuAdministrativo } from './MenuAdministrativo/MenuAdministrativo';
 import { AdministrativoCasaAlicante } from './AdministrativoCasaAlicante/AdministrativoCasaAlicante';
-import { AdministrativoHelado } from './AdministrativoHelado/AdministrativoHelado';
-import { AdministrativoBebidas } from './AdministrativoBebidas/AdministrativoBebidas';
 import { Inicio } from './Inicio/Inicio';
-import { Cerrar } from './Cerrar/Cerrar'
+import { Cerrar } from './Cerrar/Cerrar';
+import { AdministrativoBebidas } from './AdministrativoBebidas/AdministrativoBebidas';
+import { AdministrativoHamburguesas } from './AdministrativoHamburguesa/AdministrativoHamburguesas';
+import { AdministrativoHelado } from './AdministrativoHelado/AdministrativoHelado';
+import { AdministrativoBodas } from './AdminitrativoBodas/AdministrativoBodas';
+import { VistaPrincipal } from './VistaPrincipal/VistaPrincipal';
+import { Crear } from './Crear/Crear';
+import { EditarCategoria } from './EditarCategoria/EditarCategoria'
 
 
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    {/* <Vista/> */}
-    {/* <VistaPrincipal/> */}
+    {/* <Inicio/>      */}
     <MenuAdministrativo />
-    <Cerrar/>
-    
-    {/* <Inicio/>
-    
-    <AdministrativoBebidas/> */}
+    {/* <Cerrar/>  */}
+    {/* <VistaPrincipal/> */}
+    {/* <Crear/>   */}
+    {/* <EditarCategoria/> */}
+    {/* <Eliminar/> karen*/}
+    {/* <AdministrativoCasaAlicante/> */}
+    {/* <AdministrativoHamburguesas/> */}
+    {/* <AdministrativoBebidas/> */}
+    {/* <AdministrativoHelado/> */}
+    {/* <AdministrativoBodas/> */}
     
   </React.StrictMode>
 );

@@ -1,19 +1,34 @@
-import { Router } from "react-router-dom";
-import { MenuAdministrativo } from "../MenuAdministrativo/MenuAdministrativo";
+import { Routes, Route, Link } from "react-router-dom";
+// import { AdministrativoBebidas } from "../AdministrativoBebidas/AdministrativoBebidas";
+// import { AdministrativoCasaAlicante } from "../AdministrativoCasaAlicante/AdministrativoCasaAlicante";
+// import { AdministrativoHamburguesas } from "../AdministrativoHamburguesa/AdministrativoHamburguesas";
+// import { AdministrativoHelado } from "../AdministrativoHelado/AdministrativoHelado";
+// import { AdministrativoBodas } from "../AdminitrativoBodas/AdministrativoBodas";
+// import { Cerrar } from "../Cerrar/Cerrar";
+// import { Inicio } from "../Inicio/Inicio";
+// import { VistaPrincipal } from "../VistaPrincipal/VistaPrincipal";
+// import { MenuAdministrativo } from "../MenuAdministrativo/MenuAdministrativo";
+
+
 
 
 export function Rutas() {
     return (
-      <div className="App">
-        <MenuAdministrativo>
+      
+        
+        <div className="App">
+          {/* <MenuAdministrativo>
             
-        </MenuAdministrativo>
-        {/* <Routes>
-          {/* <Route path="/" element={<Home />} />
-          <Route path="historia" element={<Historia />} />
-          <Route path="integrantes" element={<Musicos/>} />
-          <Route path="albumes" element={<Albumes />} /> }
-        </Routes> */}
-      </div>
+          </MenuAdministrativo> */}
+          {/* <Routes> */}
+          {/* <Route path="/" element={<Inicio />} />
+          <Route path="/cerrar" element={<Cerrar />} />
+          <Route path="/vistaprincipal" element={<VistaPrincipal />} />
+          <Route path="/casaalicante" element={<AdministrativoCasaAlicante />} />
+          <Route path="/Hamburguesas" element={<AdministrativoHamburguesas/>} /> */}
+        
+          {/* </Routes> */}
+        </div>
+  
     );
   }

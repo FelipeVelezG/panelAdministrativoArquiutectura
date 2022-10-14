@@ -1,5 +1,3 @@
-
-
 .contenedor{
     background-color: #ffD000;
     width: 80%;
@@ -30,7 +28,7 @@
     margin-left: 20px;
 }
 
-.fotoHelados1, .fotoHelados2, .fotoHelados3, .fotoHelados4{
+.fotoHamburguesas1, .fotoHamburguesas2, .fotoHamburguesas3, .fotoHamburguesas4{
     margin-left: 20px;
     width: 280px;
     height: 250px;
@@ -38,19 +36,18 @@
     position: relative;
     box-shadow: 5px 10px 0 rgba(164,161,161);
 }
-.fotoHelados1{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(1).jpg?alt=media&token=34579dcb-64d3-45fb-aba8-6c6af5008ff3");
+.fotoHamburguesas1{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/web-ii-5161d.appspot.com/o/FOTO%20H%20(1)%20(1).jpg?alt=media&token=00988183-980c-4155-aea4-e15699a75470");
 }
-.fotoHelados2{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(2).jpg?alt=media&token=8dbbbc77-45b7-4069-bbd2-a7e735cfe8f5");
+.fotoHamburguesas2{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/web-ii-5161d.appspot.com/o/FOTO%20H%20(2)%20(1).jpg?alt=media&token=aeac8890-1bdf-4c01-bd4c-a9b4056ed7e3");
 }
-.fotoHelados3{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(3).jpg?alt=media&token=a544522c-f980-499e-9abd-d6ed62883f58");
+.fotoHamburguesas3{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/web-ii-5161d.appspot.com/o/FOTO%20H%20(3).jpg?alt=media&token=3d643756-453a-489e-b1bc-ef3c0456d171");
 }
-.fotoHelados4{
-    background-image: url("https://firebasestorage.googleapis.com/v0/b/proyecto-jsx.appspot.com/o/FOTO%20HEL%20(4).jpg?alt=media&token=89a4070e-b31c-4a44-a1eb-b703226f4677");
+.fotoHamburguesas4{
+    background-image: url("https://firebasestorage.googleapis.com/v0/b/web-ii-5161d.appspot.com/o/FOTO%20H%20(4)%20(1).jpg?alt=media&token=72f1b52f-1410-489d-97c2-6d4ee5423b91");
 }
-
 
 .barraIconos{
     background-color: rgba(255, 255, 255, 0.427);
